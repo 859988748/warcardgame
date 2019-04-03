@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\tengh\\OneDrive\\桌面\\CodingDojo\\03302019 C#_from now on\\war_cardgame\\war_cardgame.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
